@@ -4,6 +4,7 @@ it is 13 june today
 heyo
 <<<<<<< HEAD
 hehrjheojrje
+<<<<<<< Updated upstream
 anki 
 =======
 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
@@ -20,3 +21,5 @@ anki
 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 hehrjheojrje
 >>>>>>> main
+=======
+>>>>>>> Stashed changes
